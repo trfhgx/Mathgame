@@ -1,6 +1,7 @@
 # Mathgame
 A simple math game made for fun try it if you want
 * It can calculate your IQ !
+* You can choose levels and how many partys do you want (easy,meduim,hard,etc)
 * Giveing you grades like (F,A,B...)
 
 
