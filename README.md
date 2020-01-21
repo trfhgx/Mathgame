@@ -1,5 +1,9 @@
 # Mathgame
 
+***About me***
+**
+i'm a begginer and trying to do some python projects to get better and better i'm 14 year-old boy
+**
 
 A simple math game made for fun try it if you want
 * It can calculate your IQ !
