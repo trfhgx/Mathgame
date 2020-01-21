@@ -2,13 +2,13 @@
 
 ***About me***
 
-**i'm a begginer and trying to do some python projects to get better and better i'm 14 year-old boy**
+**i'm 14 year-old boy. i'm a begginer in programing and trying to do some python projects to get better and better **
 
 
 A simple math game made for fun try it if you want
 * It can calculate your IQ !
 * You can choose levels and how many partys do you want (easy,meduim,hard,etc)
-* Giveing you grades like (F,A,B...)
+* Giving you grades like (F,A,B...)
 
 
 To try out this game you must install Python [Python download link](https://www.python.org/downloads/).
